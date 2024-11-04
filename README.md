@@ -1,7 +1,7 @@
 # UTS
 
-### NAMA :
-### NIM :
+### NAMA : NUGROHO BRIAN ROMADHON
+### NIM : 21.01.55.0026
 
 ### PERINTAH GET
 GET:localhost:http://localhost/transportasi.php
